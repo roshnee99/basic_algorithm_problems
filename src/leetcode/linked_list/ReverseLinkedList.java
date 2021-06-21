@@ -1,6 +1,6 @@
-package amazon_prep.linked_list;
+package leetcode.linked_list;
 
-import amazon_prep.data_structure.Node;
+import leetcode.data_structure.Node;
 
 public class ReverseLinkedList {
 

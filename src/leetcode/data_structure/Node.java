@@ -1,4 +1,4 @@
-package amazon_prep.data_structure;
+package leetcode.data_structure;
 
 public class Node {
 

@@ -1,4 +1,4 @@
-package amazon_prep.string;
+package leetcode.string;
 
 public class ReverseWordsString {
 
